@@ -24,7 +24,7 @@ Save `.ipynb` files in the `notebooks/` folder.
 import pandas as pd
  
 lobster = pd.read_csv("bc3412-code/data/Lobster Shell Hardness/Lobster_Data (2004-2015).csv")
-microplastics = pd.read_csv("bc3412-code/data/Microplastics Concentration/Marine_Microplastics (1995-2002).csv")
+microplastics = pd.read_csv("bc3412-code/data/Microplastics Concentration/Marine_Microplastics (1995-2021).csv")
 oyster = pd.read_csv("bc3412-code/data/Oyster DTA/Oyster_Histopath (1995-2010).csv")
 ...
 ```
