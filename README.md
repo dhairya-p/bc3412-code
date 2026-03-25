@@ -29,3 +29,16 @@ oyster = pd.read_csv("bc3412-code/data/Oyster DTA/Oyster_Histopath (1995-2010).c
 ...
 ```
  
+**Saving changes from Colab back to GitHub:**
+ 
+```python
+# Run once to authenticate
+from google.colab import drive
+drive.mount('/content/drive')
+ 
+# Or push directly (you'll need a personal access token)
+!git config --global user.email "you@example.com"
+!git config --global user.name "Your Name"
+# Save your notebook, then:
+!cd bc3412-code && git add . && git commit -m "Update analysis" && git push
+```
