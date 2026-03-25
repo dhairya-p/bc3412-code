@@ -2,7 +2,7 @@
  
 **Analysing the Impact of Microplastics on North Atlantic Shellfish**
  
-A group project investigating whether microplastic concentrations affect lobster shell hardness, oyster histopathology, and overall water quality across the North Atlantic region (1995–2015).
+A group project investigating how microplastic concentrations affect lobster shell hardness, oyster DTA, along with added overall water quality metrics analysis across the North Atlantic region.
  
 ---
 
