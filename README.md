@@ -31,7 +31,7 @@ oyster = pd.read_csv("bc3412-code/data/Oyster DTA/Oyster_Histopath (1995-2010).c
  
 **Saving changes from Colab back to GitHub:**
  
-Colab runs in an ephemeral VM — your work disappears when the session ends. Two ways to persist it:
+Colab runs in a VM — your work disappears when the session ends. Two ways to persist it:
  
 **Option 1 — Push to GitHub from Colab** (recommended for the group repo):
  
